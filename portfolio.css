@@ -18,7 +18,7 @@ body {
 .sidebar {
 	position: fixed;
 	z-index: 10;
-	margin-left: 50px;
+	margin-left: 30px;
 	font-size: 20px;
 
 }
@@ -86,6 +86,7 @@ display: none;
 /* Webcam Page */
 
 .webcamgif {
+	padding-top: 25px;
 	text-align: center;
 }
 

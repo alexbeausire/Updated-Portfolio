@@ -23,7 +23,7 @@ body {
 }
 
 .navbar {
-	padding-left: 40px;
+	padding-left: 30px;
 	background: transparent;
 	border: 0;
 }
@@ -85,7 +85,7 @@ display: none;
 /* Webcam Page */
 
 .webcamgif {
-	padding-top: 25px;
+	padding-top: 5px;
 	text-align: center;
 }
 

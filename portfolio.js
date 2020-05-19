@@ -7,7 +7,7 @@ backgroundImage[0] = "images/image1.png";
 backgroundImage[1] = "images/image2.png";
 backgroundImage[2] = "images/image3.png";
 backgroundImage[3] = "images/image4.jpg";
-backgroundImage[4] = "images/image5.jpg";
+backgroundImage[4] = "images/027Artboard 1@4x.png";
 
 function displayAllImages() {
     for (i=1;i<backgroundImage.length;i++) {
